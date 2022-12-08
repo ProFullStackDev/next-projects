@@ -8,7 +8,7 @@ A social networking site using Next.js, MongoDB and Firebase.
     <img src="screenshot.png">
 </p>
 
-## Features
+## Featuresss
 
 - working with file-based routing and handling dynamic routes.
 - creating a general layout, adding React components and styling them with CSS modules.
